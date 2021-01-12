@@ -1,5 +1,5 @@
 # un-report
 
-Start notes on analysis.
-We plotted life expectancy over time.
-Started working with collaborator.
+1. Start notes on analysis.
+2. We plotted life expectancy over time.
+3. Started working with collaborator.
